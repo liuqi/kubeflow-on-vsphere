@@ -1,6 +1,6 @@
 ## Installation
 
-This section provides detailed information about Kubeflow deployment on vSphere with
+That section provides detailed information about Kubeflow deployment on vSphere with
 Tanzu.
 
 ### Setup TKG cluster
